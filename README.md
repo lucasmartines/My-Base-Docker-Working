@@ -1,4 +1,5 @@
-
+# first 
+rename .env.example .env
 
 # build 
 docker-compose up --build -d
